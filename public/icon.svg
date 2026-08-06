@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 272 480"><path fill="#cdffb8" d="M181.334 93.333v-40L226.667 80v40zM136.001 53.333 90.667 26.667v426.666L136.001 480zM45.333 220 0 193.334v140L45.333 360z"/><path fill="#d482ab" d="M90.667 26.667 136.001 0l45.333 26.667-45.333 26.666zM181.334 53.33l45.333-26.72L272 53.33 226.667 80zM136 240l-45.333-26.67v53.34zM0 193.33l45.333-26.72 45.334 26.72L45.333 220zM181.334 93.277 226.667 120l-45.333 26.67z"/><path fill="#2abc89" d="m136 53.333 45.333-26.666v120L226.667 120V80L272 53.333V160l-90.667 53.333v240L136 480V306.667L45.334 360V220l45.333-26.667v73.334L136 240z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 480 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="SquareLogo-Plain" x="0" y="0" width="480" height="480" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="480" height="480"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M0.2,223.932l0,-224l224,0l0,224l-64,0l0,-33.6l-96,0l0,33.6l-64,0Zm160,-97.6l0,-62.4l-96,0l0,62.4l96,0Z" style="fill:#f25e0d;"/>
+        <path d="M416.2,369.588l-12.388,18.724l-37.22,57.976l-0.555,-0.879l-0.582,0.879l-36.144,-59.026l-9.111,-14.425l0,107.094l-64,0l0,-224l64,0l46.886,74.234l49.114,-74.234l64,-0l0,224l-64,0l0,-110.343Z" style="fill:#f25e0d;"/>
+        <path d="M255.8,223.932l0,-224l224,-0l0,190.4l-160,0l0,33.6l-64,0Zm160,-160l-96,0l0,62.4l96,0l0,-62.4Z" style="fill:#f2af0d;"/>
+        <path d="M80.2,364.332l-80,0l0,-64l80,0l0,-44.4l64,0l0,44.4l80,0l0,64l-80,0l0,35.6l-64,0l0,-35.6Z" style="fill:#f2af0d;"/>
+        <path d="M224.2,479.932l-224,0l0,-64l224,0l0,64Z" style="fill:#f2af0d;"/>
+    </g>
+</svg>
