@@ -7,7 +7,7 @@ nixPkgs = ["nodejs_20"] # Adjust Node version as needed, e.g., nodejs_22
 cmds = [
     "npm install -g corepack",
     "corepack enable",
-    "corepack prepare pnpm@9.1.4 --activate", # Specify your pnpm version
+    "corepack prepare pnpm@11.20.0 --activate", # Specify your pnpm version
     "pnpm install"
 ]
 
