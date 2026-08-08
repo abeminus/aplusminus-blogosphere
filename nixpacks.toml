@@ -1,7 +1,7 @@
 providers = ["node"]
 
 [phases.setup]
-nixPkgs = ["nodejs_20"] # Adjust Node version as needed, e.g., nodejs_22
+nixPkgs = ["nodejs_24"] # Adjust Node version as needed, e.g., nodejs_22
 
 [phases.install]
 cmds = [
