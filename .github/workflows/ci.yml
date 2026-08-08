@@ -31,7 +31,7 @@ jobs:
           cache: "pnpm"
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockflie
+        run: pnpm install --frozen-lockfile
 
         # use astro check for issues
       - name: Run Astro check
