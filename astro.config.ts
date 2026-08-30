@@ -74,12 +74,12 @@ export default defineConfig({
 				satteriGithubCardPlugin(),
 				satteriAdmonitionsPlugin(),
 			],
-			hastPlugins: [
+			hastPlugins: [[
 				satteriHeadingIdsPlugin(),
 				satteriAutolinkHeadingsPlugin(),
 				satteriFootnoteLabelPlugin(),
 				satteriExternalLinksPlugin(),
-			],
+			]],
 		}),
 	},
 	vite: {
