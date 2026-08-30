@@ -56,6 +56,6 @@
 	},
 	"overrides": {
 		"sharp": "^0.34.5",
-		"satteri": "0.10.5"
+		"satteri": "$satteri"
 	}
 }
