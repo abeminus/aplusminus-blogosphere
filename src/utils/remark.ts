@@ -7,7 +7,7 @@ export function h(el: string, attrs: Properties = {}, children: any[] = []): Par
 	const { properties, tagName } = _h(el, attrs);
 	return {
 		children,
-		data: { hName: tagName, hProperties: properties },
+		data: { hName: tagName, hProperties: properties } as any,
 		type: "paragraph",
 	};
 }
