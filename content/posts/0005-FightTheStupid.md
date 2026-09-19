@@ -71,11 +71,7 @@ If we can understand how intelligent people can do very stupid things, maybe we 
 
 >And so it would seem that stupidity is perhaps less a psychological than a sociological problem. It is a particular form of the impact of historical circumstances on human beings, a psychological concomitant of certain external conditions. (Bonhoeffer, 2010)
 
-[^1]:Though many believe Bonhoeffer was accused of being associated with a plot to assassinate Hitler, the actual arrest and court documents show that he was arrested for his involvement in "Operation 7" - which succeeded in saving the lives of first 7 then 14 Jews. He was hanged on 9 April 1945 during the collapse of the Nazi regime. [Source - Wikipedia](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer)
-
-[^2]:Ciano would today be called a "nepo baby" for having married into his position. However, he was well educated and was initially critical of Mussolini. To say that he was wasted potential is an understatement.
-
-[^3]: I try where I can to link to free sources of the texts. Some may not be complete, however the message carries the same weight.
+***
 
 ### References
 
@@ -84,3 +80,9 @@ Bonhoeffer, Dietrich. 2010. _‘After Ten Years’ in Letters and Papers from Pr
 Cipolla, Carlo. 1976. _The Basic Laws of Human Stupidity_. [https://web.archive.org/web/20130216132858/http://www.cantrip.org/stupidity.html](https://web.archive.org/web/20130216132858/http://www.cantrip.org/stupidity.html)
 
 Thompson, Jonny. 2023. Bonhoeffer’s “theory of stupidity”: We have more to fear from stupid people than evil ones. _Big Think_. Accessed August 05, 2026. [https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/](https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/).
+
+[^1]:Though many believe Bonhoeffer was accused of being associated with a plot to assassinate Hitler, the actual arrest and court documents show that he was arrested for his involvement in "Operation 7" - which succeeded in saving the lives of first 7 then 14 Jews. He was hanged on 9 April 1945 during the collapse of the Nazi regime. [Source - Wikipedia](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer)
+
+[^2]:Ciano would today be called a "nepo baby" for having married into his position. However, he was well educated and was initially critical of Mussolini. To say that he was wasted potential is an understatement.
+
+[^3]: I try where I can to link to free sources of the texts. Some may not be complete, however the message carries the same weight.
