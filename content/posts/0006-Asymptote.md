@@ -5,7 +5,7 @@ publishDate: "15 June 1995"
 updatedDate: ""
 tags: [essay, universe, philosophy]
 ---
-_<font color="green">Author's note: This essay was written in 1995, but posted to this site on September X, 2026. Links were added at the time of posting.</font>_ 
+_<font color="green">Author's note: This essay was written in 1995, but posted to this site on September 19, 2026. Links were added at the time of posting.</font>_ 
 
 ***
 
