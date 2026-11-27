@@ -57,5 +57,8 @@
 	"overrides": {
 		"sharp": "^0.34.5",
 		"satteri": "$satteri"
+	},
+	"allowScripts": {
+		"sharp@0.34.5": true
 	}
 }
